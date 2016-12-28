@@ -1,0 +1,12 @@
+{
+  "name": "socket-chat-example",
+  "version": "0.0.1",
+  "description": "my first socket.io app",
+  "dependencies": {
+    "assert": "^1.4.1",
+    "express": "latest",
+    "mongodb": "^2.2.11",
+    "mongoose": "^4.6.6",
+    "socket.io": "latest"
+  }
+}
